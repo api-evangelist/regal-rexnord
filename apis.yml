@@ -28,6 +28,8 @@ apis:
     description: >-
       The Regal Rexnord API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/regal-rexnord
   - type: Website
     url: https://www.regalrexnord.com
 maintainers:
