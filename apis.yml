@@ -2,7 +2,7 @@ aid: regal-rexnord
 url: https://raw.githubusercontent.com/api-evangelist/regal-rexnord/refs/heads/main/apis.yml
 name: Regal Rexnord
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Industrial
   - Motion Control
@@ -19,7 +19,7 @@ apis:
       - Industrial
       - Motion Control
       - Manufacturing
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://api.regalrexnord.com
     humanURL: https://developer.regalrexnord.com
     properties:
